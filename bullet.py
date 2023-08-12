@@ -16,3 +16,4 @@ class Bullet(Sprite):
 		self.rect.midtop = ai_game.ship.rect.midtop
 
 		#self.y=float(self.rect.y)
+		s
